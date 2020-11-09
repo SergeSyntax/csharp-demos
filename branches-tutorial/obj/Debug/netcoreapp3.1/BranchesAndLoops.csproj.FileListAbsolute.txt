@@ -1,0 +1,13 @@
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.exe
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.deps.json
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.json
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\sergw\workspace\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.pdb
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.pdb
+C:\Users\sergw\workspace\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.genruntimeconfig.cache
