@@ -1,0 +1,17 @@
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\bin\Debug\DesktopContatcsApp.exe.config
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\bin\Debug\DesktopContatcsApp.exe
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\bin\Debug\DesktopContatcsApp.pdb
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.csprojAssemblyReference.cache
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\MainWindow.g.cs
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\NewContactWindow.g.cs
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\App.g.cs
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp_MarkupCompile.cache
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp_MarkupCompile.lref
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\MainWindow.baml
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\NewContactWindow.baml
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.g.resources
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.Properties.Resources.resources
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.csproj.GenerateResource.cache
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.csproj.CoreCompileInputs.cache
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.exe
+C:\Users\sergw\source\repos\DesktopContatcsApp\DesktopContatcsApp\obj\Debug\DesktopContatcsApp.pdb
